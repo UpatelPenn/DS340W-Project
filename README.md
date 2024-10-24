@@ -109,13 +109,13 @@ print(output)
 For more downstream tasks, please see below.
 
 ## Downstream tasks
-See corresponding folder in [examples](examples):
-### [Relation Extraction on BC5CDR](examples/RE-BC5CDR)
-### [Relation Extraction on KD-DTI](examples/RE-DTI/)
-### [Relation Extraction on DDI](examples/RE-DDI)
-### [Document Classification on HoC](examples/DC-HoC/)
-### [Question Answering on PubMedQA](examples/QA-PubMedQA/)
-### [Text Generation](examples/text-generation/)
+See corresponding folder in [Examples](Examples):
+### [Relation Extraction on BC5CDR](Examples/RE-BC5CDR)
+### [Relation Extraction on KD-DTI](Examples/RE-DTI/)
+### [Relation Extraction on DDI](Examples/RE-DDI)
+### [Document Classification on HoC](Examples/DC-HoC/)
+### [Question Answering on PubMedQA](Examples/QA-PubMedQA/)
+### [Text Generation](Examples/text-generation/)
 
 ## Hugging Face 🤗 Usage
 
