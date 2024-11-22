@@ -9,4 +9,6 @@ Refer to the [requirements](REQUIREMENTS.txt) file.
 
 ## Data
 
+Our data comes from a publicly available data set and intended for relation extraction tasks.
+
 ## Files to Use
