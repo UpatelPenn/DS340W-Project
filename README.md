@@ -5,7 +5,7 @@ information extraction tasks with NLP models, like PubMedBERT.
 
 ## Requirements
 
-Refer to the [requirements](requirements.txt) file.
+Refer to the [requirements](REQUIREMENTS.txt) file.
 
 ## Data
 
