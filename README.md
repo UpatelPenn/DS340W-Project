@@ -9,6 +9,6 @@ Refer to the [requirements](REQUIREMENTS.txt) file.
 
 ## Data
 
-Our data comes from a publicly available data set and intended for relation extraction tasks. To make it easier for viewers to access, we have included the files that we used here, in the [RE-BC5DR](RE-BC5DR/) directory.
+Our data comes from a publicly available data set and intended for relation extraction tasks. To make it easier for viewers to access, we have included the files that we used here, in the [RE-BC5DR](RE-Data/BC5CDR/) directory.
 
 ## Files to Use
